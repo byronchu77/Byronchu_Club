@@ -1,0 +1,14 @@
+{
+  "hash": "a445bbdc1540c54241f5565f76b77069",
+  "result": {
+    "markdown": "---\ntitle: \"Here I Am\"\nauthor: \"Byron Chu\"\ndate: \"2022-12-20 19:20\"\ncategories: [Life,thoughts, code, analysis]\nimage: \"image.jpg\"\n---\n\n\nThis is my first R blog. I tried to use R blogdown and Quarto blog seems fine. Just getting started.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
