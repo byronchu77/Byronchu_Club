@@ -1,9 +1,9 @@
 ---
-title: "Here I Am"
+title: "At the end of 2022"
 author: "Byron Chu"
-date: "2022-12-20 19:20"
+date: "2022-12-20 21:40"
 categories: [Life,thoughts, code, analysis]
-image: "image.jpg"
+
 ---
 
 This is my first R blog. I tried to use R blogdown and Quarto blog seems fine. Just getting started.
