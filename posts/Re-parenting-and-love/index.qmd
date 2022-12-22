@@ -1,0 +1,13 @@
+---
+title: "Here I Am"
+author: "Byron Chu"
+date: "2022-12-20 19:20"
+categories: [Life,thoughts, code, analysis]
+image: "image.jpg"
+---
+
+This is my first R blog. I tried to use R blogdown and Quarto blog seems fine. Just getting started.
+
+```{r}
+1 + 1
+```
