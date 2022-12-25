@@ -1,0 +1,14 @@
+{
+  "hash": "3cee7d5bb4cc34a590183f88a3984919",
+  "result": {
+    "markdown": "---\ntitle: \"What do you talk about when you talk about 2023 ？\"\nauthor: \"Byron Chu\"\ndate: \"2022-12-20 19:20\"\ncategories: [Life,thoughts, code, analysis]\n#image: \"image.jpg\"\n---\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(ggplot2)\n```\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
