@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title:  Daily Dose of Everything
+  title:  Random Dose of Everything
    
   navbar:
     title: 末 节
