@@ -44,7 +44,7 @@
   {
     "objectID": "posts/2023-01-02-how-to-install-pythhon-and-jupyter/index.html",
     "href": "posts/2023-01-02-how-to-install-pythhon-and-jupyter/index.html",
-    "title": "How to install pythhon and jupyter",
+    "title": "How to install Python and Jupyter",
     "section": "",
     "text": "1. How to install Python\nFor mac users, start with the “Terminal”, input:\n    brew install python3\nThen check if python3 is available by using:\n    python3 --version\nIf you see the version info, it means the installation is successful. So, you can use it by calling it out:\n    python3\nand exit by typing in exit(). You can also install a python package like numpy:\n    pip3 install numpy --user\n\n\n2 How to Install jupyter\n    pip3 install jupyter\n    pip2 install notebook\nCall out jupyter notebook by\n    jupyter notebook\nThe jupyter notebook will be opened in your browser.\nSimple and easy ! Enjoy!"
   },
@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Random Dose of Everything",
     "section": "",
-    "text": "How to install pythhon and jupyter\n\n\n\n\n\nBefore beginner’s guide\n\n\n\n\n\n\nJan 2, 2023\n\n\nByron Chu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA romanticized history of American Indian\n\n\n\n\n\nReviw of Avatar: The Way of Water\n\n\n\n\n\n\nDec 30, 2022\n\n\nByron Chu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat do you talk about when you talk about 2023？\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nByron Chu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n匆匆又一年\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\n\n\n\n\n\n\n\n\n\nDec 22, 2022\n\n\nByron Chu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow shall I greet you after years\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2022\n\n\nByron Chu\n\n\n\n\n\n\n  \n\n\n\n\nI love myself\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2022\n\n\nByron Chu\n\n\n\n\n\n\n  \n\n\n\n\nHere I Am\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2022\n\n\nByron Chu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAt the end of 2022\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 20, 2022\n\n\nByron Chu\n\n\n\n\n\n\nNo matching items"
+    "text": "How to install Python and Jupyter\n\n\n\n\n\nBefore beginner’s guide\n\n\n\n\n\n\nJan 2, 2023\n\n\nByron Chu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA romanticized history of American Indian\n\n\n\n\n\nReviw of Avatar: The Way of Water\n\n\n\n\n\n\nDec 30, 2022\n\n\nByron Chu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat do you talk about when you talk about 2023？\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 28, 2022\n\n\nByron Chu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n匆匆又一年\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\n\n\n\n\n\n\n\n\n\nDec 22, 2022\n\n\nByron Chu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow shall I greet you after years\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2022\n\n\nByron Chu\n\n\n\n\n\n\n  \n\n\n\n\nI love myself\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2022\n\n\nByron Chu\n\n\n\n\n\n\n  \n\n\n\n\nHere I Am\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2022\n\n\nByron Chu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAt the end of 2022\n\n\n\n\n\n\n\nLife\n\n\nthoughts\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 20, 2022\n\n\nByron Chu\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

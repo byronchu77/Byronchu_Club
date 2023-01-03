@@ -1,5 +1,5 @@
 ---
-title: "How to install pythhon and jupyter"
+title: "How to install Python and Jupyter"
 description: |
           Before beginner's guide
 author: Byron Chu
