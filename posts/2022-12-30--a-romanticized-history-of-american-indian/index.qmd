@@ -1,5 +1,5 @@
 ---
-title: " A romanticized history of American Indian"
+title: "A romanticized history of American Indian"
 description: |
   Reviw of Avatar: The Way of Water
 author: Byron Chu
