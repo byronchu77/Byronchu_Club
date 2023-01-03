@@ -1,0 +1,39 @@
+---
+title: "How to install pythhon and jupyter"
+description: |
+  Before beginner's guide
+author: Byron Chu
+date: 2023-01-02
+---
+
+###### Install Python
+For mac users, start with the "Terminal", input: 
+```
+brew install python3
+```
+Then check if python3 is available by using:
+```
+python3 --version
+```
+If you see the version info, it means the installation is successfull. So, you can use it by call it out: 
+```
+python3
+```
+and exit by typing in exit(). 
+You can also install a python package like numpy:
+```
+pip3 install numpy --user
+```
+
+###### 2 Install jupyter
+```
+pip3 install jupyter
+pip2 install notebook
+```
+
+Call out jupyter notebook by
+```
+jupyter notebook
+```
+The jupyter notebook will be openned in your browser. 
+
