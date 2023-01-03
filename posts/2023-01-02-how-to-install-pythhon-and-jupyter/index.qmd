@@ -4,6 +4,7 @@ description: |
           Before beginner's guide
 author: Byron Chu
 date: 2023-01-02
+categories: [Code]
 ---
 
 ###### 1. How to install Python
