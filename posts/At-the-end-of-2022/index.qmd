@@ -14,5 +14,3 @@ categories: [Life,thoughts, code, analysis]
 2.  感悟
 
 这又引出另外一个话题：所谓的成功，也许并非完全能够依靠个人努力，而更像是当某些前提/条件集合在一起时，会自然出现的产物。如同chatGPT 或者AI art一样，合适的prompts会诱发相似的反应。
-
-总结
