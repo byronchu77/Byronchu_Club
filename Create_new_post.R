@@ -4,7 +4,7 @@ Create_new_post <- function(
     description = "",
     author = "Byron Chu", 
     date = Sys.Date(), 
-    category = NULL, 
+    categories = NULL, 
     draft = FALSE, 
     title_limit = 40,
     open_file = TRUE
@@ -49,22 +49,10 @@ Create_new_post <- function(
     "description: |",
     glue::glue('  {description}'),
     glue::glue("author: {author}"),
-    glue::glue("date: {date}")
+    glue::glue("date: {date}"),
+    glue::glue("categories: [{categories}]")
   )
   
-  #add category if indicated
-  if(!is.null(category)){
-    new_post_text <- c(
-      new_post_core,
-      paste0("category: [", category, "]"),
-      "---\n"
-      )
-  }else {
-    new_post_text <- c(
-      new_post_core,
-      "---\n"
-      )
-  }
   
   # add draft if draft
   if(draft){

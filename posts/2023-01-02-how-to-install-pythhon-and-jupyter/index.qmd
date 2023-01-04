@@ -37,7 +37,7 @@ and exit by typing in exit(). You can also install a python package like numpy:
 
 ``` default
     pip3 install jupyter
-    pip2 install notebook
+    pip3 install notebook
 ```
 
 Call out jupyter notebook by
