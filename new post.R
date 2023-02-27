@@ -1,8 +1,7 @@
 source("~/Documents/GitHub/Byronchu_Club/Create_new_post.R")
 Create_new_post(
-   "How to solve a murder", 
-  description = "Review on Three pines",
+   "What I learnt today", 
+  description = "一周总结",
   categories = "Life, Thoughts",
   draft = FALSE
 )
-1
