@@ -1,9 +1,13 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    port: 4200
+    browser: true
 
 website:
   title:  Random Dose of Everything
+  page-navigation: true
    
   navbar:
     title: 末 节
